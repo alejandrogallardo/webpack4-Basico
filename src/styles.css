@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+   border: 0; 
+}
+
+body{
+    background: cornsilk;
+}
+
+.container{
+    max-width: 920px;
+    margin: 0 auto;
+}
